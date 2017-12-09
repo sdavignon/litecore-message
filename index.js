@@ -1,4 +1,4 @@
-var litecore = require('litecore-lib');
-litecore.Message = require('./lib/message');
+var riffcash = require('riffcash-lib');
+riffcash.Message = require('./lib/message');
 
-module.exports = litecore.Message;
+module.exports = riffcash.Message;
