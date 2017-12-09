@@ -1,5 +1,5 @@
 
-# Litecoin Message Verification and Signing for Litecore
+# RIFFCash Message Verification and Signing for riffcash-core
 
 
 
